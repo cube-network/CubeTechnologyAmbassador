@@ -10,7 +10,9 @@ The Cube Tech Ambassador event is the first event planned by the cube community.
 **Participation rules**
   - Write multilingual technical articles around interpreting cube white papers.
   - Post on your own technical blog / self-publishing platform
-  - Submit the posting link to the form: Form Link
+  - Submit the posting link to the form: [Form Link][link]
+
+[link]:https://docs.google.com/forms/d/1WbHq0qNZcJHrlmYmgtVjyGaU8pVYIRwa-DX5X9pfDw4/edit
 
 **Reward method.**
   - The best technical articles will be republished in the official cube social media and will be entered into a prize pool
